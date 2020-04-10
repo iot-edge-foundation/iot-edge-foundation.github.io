@@ -35,7 +35,8 @@ html,
             /* negative value of footer height */
         }
 
-        footer li {
+        footer li,
+        footer a {
             color: #fff;
         }
 
