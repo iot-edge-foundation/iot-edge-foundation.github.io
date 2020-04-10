@@ -37,8 +37,13 @@ html,
 
         footer li,
         footer a:any-link {
+            display: inline-block;
             color: #fff;
         }
+
+        footer ul {
+            list-style: none;
+          }
 
         p, li {
             color: #000;
