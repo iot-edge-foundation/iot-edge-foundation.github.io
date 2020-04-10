@@ -35,10 +35,14 @@ html,
             /* negative value of footer height */
         }
 
-        footer li,
-        footer a:any-link {
+        footer li {
             display: inline-block;
             color: #fff;
+        }
+
+        footer a:any-link {
+            color: #fff;
+            text-decoration: none;
         }
 
         footer ul {
