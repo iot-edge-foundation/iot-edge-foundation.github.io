@@ -40,7 +40,9 @@ html,
             color: #fff;
         }
 
-        footer a:any-link {
+        footer a:link,
+        footer a:active,
+        footer a:visited {
             color: #fff;
             text-decoration: none;
         }
